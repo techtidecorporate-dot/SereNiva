@@ -1,0 +1,155 @@
+@font-face {
+    font-family: 'Figtree';
+    src: url('Figtree-SemiBold.eot');
+    src: url('Figtree-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Figtree-SemiBold.woff2') format('woff2'),
+        url('Figtree-SemiBold.woff') format('woff'),
+        url('Figtree-SemiBold.ttf') format('truetype'),
+        url('Figtree-SemiBold.svg#Figtree-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Figtree';
+    src: url('Figtree-Medium.eot');
+    src: url('Figtree-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Figtree-Medium.woff2') format('woff2'),
+        url('Figtree-Medium.woff') format('woff'),
+        url('Figtree-Medium.ttf') format('truetype'),
+        url('Figtree-Medium.svg#Figtree-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Figtree';
+    src: url('Figtree-Regular.eot');
+    src: url('Figtree-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Figtree-Regular.woff2') format('woff2'),
+        url('Figtree-Regular.woff') format('woff'),
+        url('Figtree-Regular.ttf') format('truetype'),
+        url('Figtree-Regular.svg#Figtree-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Figtree';
+    src: url('Figtree-Bold.eot');
+    src: url('Figtree-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Figtree-Bold.woff2') format('woff2'),
+        url('Figtree-Bold.woff') format('woff'),
+        url('Figtree-Bold.ttf') format('truetype'),
+        url('Figtree-Bold.svg#Figtree-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merriweather';
+    src: url('Merriweather24pt-Medium.eot');
+    src: url('Merriweather24pt-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Merriweather24pt-Medium.woff2') format('woff2'),
+        url('Merriweather24pt-Medium.woff') format('woff'),
+        url('Merriweather24pt-Medium.ttf') format('truetype'),
+        url('Merriweather24pt-Medium.svg#Merriweather24pt-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merriweather';
+    src: url('Merriweather24pt-Regular.eot');
+    src: url('Merriweather24pt-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Merriweather24pt-Regular.woff2') format('woff2'),
+        url('Merriweather24pt-Regular.woff') format('woff'),
+        url('Merriweather24pt-Regular.ttf') format('truetype'),
+        url('Merriweather24pt-Regular.svg#Merriweather24pt-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merriweather';
+    src: url('Merriweather24pt-SemiBold.eot');
+    src: url('Merriweather24pt-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Merriweather24pt-SemiBold.woff2') format('woff2'),
+        url('Merriweather24pt-SemiBold.woff') format('woff'),
+        url('Merriweather24pt-SemiBold.ttf') format('truetype'),
+        url('Merriweather24pt-SemiBold.svg#Merriweather24pt-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Merriweather';
+    src: url('Merriweather24pt-Bold.eot');
+    src: url('Merriweather24pt-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Merriweather24pt-Bold.woff2') format('woff2'),
+        url('Merriweather24pt-Bold.woff') format('woff'),
+        url('Merriweather24pt-Bold.ttf') format('truetype'),
+        url('Merriweather24pt-Bold.svg#Merriweather24pt-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Figtree';
+    src: url('Figtree-Bold_1.eot');
+    src: url('Figtree-Bold_1.eot?#iefix') format('embedded-opentype'),
+        url('Figtree-Bold_1.woff2') format('woff2'),
+        url('Figtree-Bold_1.woff') format('woff'),
+        url('Figtree-Bold_1.ttf') format('truetype'),
+        url('Figtree-Bold_1.svg#Figtree-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Figtree';
+    src: url('Figtree-Regular_1.eot');
+    src: url('Figtree-Regular_1.eot?#iefix') format('embedded-opentype'),
+        url('Figtree-Regular_1.woff2') format('woff2'),
+        url('Figtree-Regular_1.woff') format('woff'),
+        url('Figtree-Regular_1.ttf') format('truetype'),
+        url('Figtree-Regular_1.svg#Figtree-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Figtree';
+    src: url('Figtree-Medium_1.eot');
+    src: url('Figtree-Medium_1.eot?#iefix') format('embedded-opentype'),
+        url('Figtree-Medium_1.woff2') format('woff2'),
+        url('Figtree-Medium_1.woff') format('woff'),
+        url('Figtree-Medium_1.ttf') format('truetype'),
+        url('Figtree-Medium_1.svg#Figtree-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Figtree';
+    src: url('Figtree-SemiBold_1.eot');
+    src: url('Figtree-SemiBold_1.eot?#iefix') format('embedded-opentype'),
+        url('Figtree-SemiBold_1.woff2') format('woff2'),
+        url('Figtree-SemiBold_1.woff') format('woff'),
+        url('Figtree-SemiBold_1.ttf') format('truetype'),
+        url('Figtree-SemiBold_1.svg#Figtree-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
